@@ -1,0 +1,15 @@
+/*Inserta tu Codigo Responsive*/
+@media only screen and (max-width: 991px) {
+	.ds {
+		padding-top: 3px;
+	}
+}
+@media (max-width: 768px) {
+	.btn {
+    	margin-bottom: 5px;
+	}
+}
+@media (max-width: 480px) {
+	.form-login {
+		width: 100% !important;
+	}
